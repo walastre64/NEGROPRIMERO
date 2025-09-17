@@ -1,7 +1,7 @@
 <?PHP
 function conectate(){
 
-		$serverName = "DCBAHIA\MSSQLSERVER2014"; //serverName\instanceName
+		$serverName = "localhost"; //serverName\instanceName
 		$connectionInfo = array( "Database"		=>"BahiaRRHH",
 								 "UID"	   		=>"sa",
 								 "PWD"	   		=>"",
